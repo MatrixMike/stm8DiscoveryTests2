@@ -280,7 +280,6 @@ void Delay(void action(void), int NumberofTIMCycles)
   }
 }
 
-
 /**
   ******************************************************************************
   * @brief Toggle PD0 (Led LD1)
