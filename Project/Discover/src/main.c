@@ -3,7 +3,7 @@
   recompiled by Mike Hewitt - 04/04/2016  
 recompile by me again - check build and prepare for sharing on github - 31/10/2016
   re-invigorated interest in using these devices after success with ECA club re-start
-
+April 8 2019 - gave talk about open source to RPi and ECA meetups
   ******************************************************************************
   * @file STM8_main.c
   * @brief RC Touch Sensing Library for STM8 CPU family.
@@ -24,6 +24,7 @@ recompile by me again - check build and prepare for sharing on github - 31/10/20
   * @image html logo.bmp
   ******************************************************************************
   */
+// 31/7/2019 revive
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm8s.h"
